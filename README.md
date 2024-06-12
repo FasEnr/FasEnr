@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FasEnr
 - I works in Risk Management Department of a bank in Italy
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning AI Harward Course
 - 💞️ I’m looking to collaborate on Data Science Project
 - 📫 How to reach me : send email to fasolisenrico@gmail.com
 
